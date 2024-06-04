@@ -7,10 +7,12 @@
 - VERY massive stars become supernovae because the force of gravity overcomes the force of fusion when fusion ends.
 
 ## Nuclear Stuff
+
 - Critical point and chain reaction
 - How to arrive at criticality without an explosion
 
 # Radioactive Decay
+
 | Decay Type | Particle | Example | Description |
 |------------|----------|---------|-------------|
 | Alpha decay | Alpha particles | Po-210 to Pb-206 | Releases energy. Can't go through things, doesn't hurt you because it's just helium. |
