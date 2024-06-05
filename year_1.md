@@ -14,7 +14,7 @@
 | Decay Type | Particle | Example | Description |
 |------------|----------|---------|-------------|
 | Alpha decay | Alpha (positively charged) particles | Po-210 to Pb-206 | Releases energy. Can't go through things, doesn't hurt you because it's just helium. |
-| Beta decay | High energy and speed E<sup>-</sup> (electron) or e<sup>+</sup> (positron) | Se-79 to Br-79<sup>-</sup> | Proton -> neutron + positron + electron antineutrino OR neutron -> proton + electron + electron antineutrino. Weak nuclear force allows up quark to change into a down quark, or vice versa. Will penetrate skin. |
+| Beta decay | High energy and speed E<sup>-</sup> (electron) or e<sup>+</sup> (positron) | Se-79 to Br-79<sup>-</sup> | Proton -> neutron + positron + electron neutrino OR neutron -> proton + electron + electron antineutrino. Weak nuclear force allows up quark to change into a down quark, or vice versa. Will penetrate skin. |
 | Gamma decay | High energy and speed gamma **rays** | Co-60 to Co-60<sup>*</sup> | Co-60<sup>*</sup> is an excited state of Co-60. Co-60<sup>*</sup> releases energy in the form of gamma rays. Will penetrate skin. |
 
 ## Measuring Radiation (6/4/2024)
